@@ -33,5 +33,5 @@ Tinggal *clone* dan jalankan. Gak pakai ribet.
 
 1. **Clone repository ini:**
    ```bash
-   git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
+   git clone [https://github.com/dryuxxinn/ServerStat-sys_dash/tree/maingit](https://github.com/dryuxxinn/ServerStat-sys_dash/tree/main.git)
    cd nama-repo-kamu
